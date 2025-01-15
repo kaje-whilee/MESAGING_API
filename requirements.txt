@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+cryptography
+motor
+passlib
+hmac
+datetime
+contextlib
+base64
+pydantic
+python-jose
+cryptography
+hashlib
+os
+pymongo
+uuid
